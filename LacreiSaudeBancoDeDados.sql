@@ -483,5 +483,4 @@ SET DEFAULT ROLE ALL TO
   'paciente_exemplo'@'localhost', 
   'admin_clinica'@'localhost',
   'medico_exemplo'@'localhost';
-  -- Para ver as permissões concedidas, descomente a linha de baixo 
-  -- SHOW GRANTS FOR 'role_administrativo';
+
